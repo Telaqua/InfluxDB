@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Tutorial on using the InfluxDB client."""
+"""
+Tutorial on using the InfluxDB client.
+Original from https://influxdb-python.readthedocs.io/en/latest/examples.html
+"""
 
 import argparse
 
